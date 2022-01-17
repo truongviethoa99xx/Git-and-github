@@ -1,0 +1,6 @@
+git init
+git status
+git add tên file or "."
+git status
+git commit -m "message"
+git log
