@@ -4,3 +4,5 @@ git add tên file or "."
 git status
 git commit -m "message"
 git log
+git remote add origin https://github.com/truongviethoa99xx/Git-and-github.git
+git push -u origin main/master
