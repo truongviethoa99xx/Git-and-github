@@ -1,0 +1,9 @@
+Git branch tên branch
+Git branch
+Git checkout tên branch: chọn branch
+Git branch để kiểm tra
+Git add .
+Git commit -m “---”
+Git merge tên branch
+Git log để kiểm tra lại
+Git push
