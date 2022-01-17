@@ -1,0 +1,11 @@
+git branch tên branch
+git branch
+git checkout tên branch: chọn branch
+git branch để kiểm tra
+git add .
+git status
+git commit -m “---”
+git log
+git merge tên branch
+git log để kiểm tra lại
+git push
